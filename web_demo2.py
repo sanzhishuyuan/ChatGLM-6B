@@ -4,7 +4,7 @@ from streamlit_chat import message
 
 
 st.set_page_config(
-    page_title="ChatGLM-6b 演示",
+    page_title="ChatGLM-6b 三至书院",
     page_icon=":robot:"
 )
 
